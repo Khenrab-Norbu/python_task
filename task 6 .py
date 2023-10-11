@@ -1,0 +1,2 @@
+#variables
+age = 18
